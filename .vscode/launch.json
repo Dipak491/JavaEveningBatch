@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "StringToArray",
+            "request": "launch",
+            "mainClass": "StringToArray",
+            "projectName": "JavaEveningBatch_acda46f9"
+        },
+        {
+            "type": "java",
+            "name": "StringCount",
+            "request": "launch",
+            "mainClass": "StringCount",
+            "projectName": "JavaEveningBatch_acda46f9"
+        },
+        {
+            "type": "java",
             "name": "Sum",
             "request": "launch",
             "mainClass": "Sum",
